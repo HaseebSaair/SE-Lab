@@ -1,3 +1,8 @@
 wow jee
+<<<<<<< HEAD
 brownies
 birthday
+=======
+ok
+two
+>>>>>>> origin
